@@ -1,1 +1,10 @@
 
+.homeImg{
+width: 200px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.home{
+  text-align: center;
+}
