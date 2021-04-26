@@ -8,3 +8,19 @@ margin-right: auto;
 .home{
   text-align: center;
 }
+.header{
+text-align: center;
+display: block;
+margin-left: auto;
+margin-right: auto;
+font-style: italic;
+}
+.bahamasImg{
+width: 200px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.bahamas{
+  text-align: center;
+}
